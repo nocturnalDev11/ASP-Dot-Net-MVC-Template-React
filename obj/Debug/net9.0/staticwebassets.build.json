@@ -1,0 +1,2402 @@
+{
+  "Version": 1,
+  "Hash": "Oig4qXtxQgnoHFxtLb/lSfPJuUbn5prFaYdr1jdDDgU=",
+  "Source": "ASP-Dot-Net-MVC-Template-React",
+  "BasePath": "_content/ASP-Dot-Net-MVC-Template-React",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ASP-Dot-Net-MVC-Template-React/wwwroot",
+      "Source": "ASP-Dot-Net-MVC-Template-React",
+      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/",
+      "BasePath": "_content/ASP-Dot-Net-MVC-Template-React",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/72ns9bcvqc-zk7krcubt1.gz",
+      "SourceId": "ASP-Dot-Net-MVC-Template-React",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/ASP-Dot-Net-MVC-Template-React",
+      "RelativePath": "assets/index-BrQhOZ60#[.{fingerprint=zk7krcubt1}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/index-BrQhOZ60.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "y7l8n3mzvj",
+      "Integrity": "kl8zNOBaPaCQ8J3NeaIOKEcQS86udndT6WjLcKnN2EE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/index-BrQhOZ60.js"
+    },
+    {
+      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/bzegimlvnu-1domr6o6tr.gz",
+      "SourceId": "ASP-Dot-Net-MVC-Template-React",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/ASP-Dot-Net-MVC-Template-React",
+      "RelativePath": "ASP-Dot-Net-MVC-Template-React#[.{fingerprint=1domr6o6tr}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/scopedcss/projectbundle/ASP-Dot-Net-MVC-Template-React.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "xzsh7udvq6",
+      "Integrity": "8yNhWRMqk7GFbtahBm9v7veTYOFDcqo1fOfzTB2vaTk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/scopedcss/projectbundle/ASP-Dot-Net-MVC-Template-React.bundle.scp.css"
+    },
+    {
+      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/gyifwnp0ht-7trw0vijr1.gz",
+      "SourceId": "ASP-Dot-Net-MVC-Template-React",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/ASP-Dot-Net-MVC-Template-React",
+      "RelativePath": "assets/react-CHdo91hT#[.{fingerprint=7trw0vijr1}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/react-CHdo91hT.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "8yyy5bkqom",
+      "Integrity": "kClC1v4PSVusr2o/hTKFS03Kov0IU5ScQPKjNOp7HqY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/react-CHdo91hT.svg"
+    },
+    {
+      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/r6d8f7m5a1-69kjnsiwqx.gz",
+      "SourceId": "ASP-Dot-Net-MVC-Template-React",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/ASP-Dot-Net-MVC-Template-React",
+      "RelativePath": "vite#[.{fingerprint=69kjnsiwqx}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/vite.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "0v179rs1ub",
+      "Integrity": "1AU3txN9n5Dd653zBLam5zvwTi+8uF/FPEP9hABUE48=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/vite.svg"
+    },
+    {
+      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/vl9wjbw522-tyh8ydy1z3.gz",
+      "SourceId": "ASP-Dot-Net-MVC-Template-React",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/ASP-Dot-Net-MVC-Template-React",
+      "RelativePath": "assets/index-D8b4DHJx#[.{fingerprint=tyh8ydy1z3}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/index-D8b4DHJx.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "dfcosh767a",
+      "Integrity": "FzuuRARQU5LUONfvxvJNxYE0QQrSuqSgnBwcXKXgNxs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/index-D8b4DHJx.css"
+    },
+    {
+      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/xnco7cft5x-1domr6o6tr.gz",
+      "SourceId": "ASP-Dot-Net-MVC-Template-React",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/ASP-Dot-Net-MVC-Template-React",
+      "RelativePath": "ASP-Dot-Net-MVC-Template-React#[.{fingerprint=1domr6o6tr}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/scopedcss/bundle/ASP-Dot-Net-MVC-Template-React.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "xzsh7udvq6",
+      "Integrity": "8yNhWRMqk7GFbtahBm9v7veTYOFDcqo1fOfzTB2vaTk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/scopedcss/bundle/ASP-Dot-Net-MVC-Template-React.styles.css"
+    },
+    {
+      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/ygga38f6d2-s2su7bvccb.gz",
+      "SourceId": "ASP-Dot-Net-MVC-Template-React",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/ASP-Dot-Net-MVC-Template-React",
+      "RelativePath": "index#[.{fingerprint=s2su7bvccb}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "k061ew4iz2",
+      "Integrity": "tOJTqZtFMwV1QDFAyc4hKyA1yL9Qs1E2TPH/4ydQZdw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/index.html"
+    },
+    {
+      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/scopedcss/bundle/ASP-Dot-Net-MVC-Template-React.styles.css",
+      "SourceId": "ASP-Dot-Net-MVC-Template-React",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/scopedcss/bundle/",
+      "BasePath": "_content/ASP-Dot-Net-MVC-Template-React",
+      "RelativePath": "ASP-Dot-Net-MVC-Template-React#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "1domr6o6tr",
+      "Integrity": "1ff7WaPjEQBOfoxX56P0po/6gyYFZmWAB5O9/zqDPO8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/scopedcss/bundle/ASP-Dot-Net-MVC-Template-React.styles.css"
+    },
+    {
+      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/scopedcss/projectbundle/ASP-Dot-Net-MVC-Template-React.bundle.scp.css",
+      "SourceId": "ASP-Dot-Net-MVC-Template-React",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/scopedcss/projectbundle/",
+      "BasePath": "_content/ASP-Dot-Net-MVC-Template-React",
+      "RelativePath": "ASP-Dot-Net-MVC-Template-React#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "1domr6o6tr",
+      "Integrity": "1ff7WaPjEQBOfoxX56P0po/6gyYFZmWAB5O9/zqDPO8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/scopedcss/projectbundle/ASP-Dot-Net-MVC-Template-React.bundle.scp.css"
+    },
+    {
+      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/index-BrQhOZ60.js",
+      "SourceId": "ASP-Dot-Net-MVC-Template-React",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/",
+      "BasePath": "_content/ASP-Dot-Net-MVC-Template-React",
+      "RelativePath": "assets/index-BrQhOZ60#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zk7krcubt1",
+      "Integrity": "nVE8HvDbIbySCGzKXNL4OVdzDsWK/wX6FJ8zJ5FPGLg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/index-BrQhOZ60.js"
+    },
+    {
+      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/index-D8b4DHJx.css",
+      "SourceId": "ASP-Dot-Net-MVC-Template-React",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/",
+      "BasePath": "_content/ASP-Dot-Net-MVC-Template-React",
+      "RelativePath": "assets/index-D8b4DHJx#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tyh8ydy1z3",
+      "Integrity": "C93KjtBnMCaIdWVIcHbrBsOg72me6/gEIIHdxlo+Rqw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/index-D8b4DHJx.css"
+    },
+    {
+      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/react-CHdo91hT.svg",
+      "SourceId": "ASP-Dot-Net-MVC-Template-React",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/",
+      "BasePath": "_content/ASP-Dot-Net-MVC-Template-React",
+      "RelativePath": "assets/react-CHdo91hT#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7trw0vijr1",
+      "Integrity": "Ne9h7VOzI66UoWqOxlmz0K84gGmHkRM/I7CECFqxwuU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/react-CHdo91hT.svg"
+    },
+    {
+      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/index.html",
+      "SourceId": "ASP-Dot-Net-MVC-Template-React",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/",
+      "BasePath": "_content/ASP-Dot-Net-MVC-Template-React",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s2su7bvccb",
+      "Integrity": "pEzE51/MCiYEUnI2wkbWd0NX2jIX1YQSwATthF19Bs8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/vite.svg",
+      "SourceId": "ASP-Dot-Net-MVC-Template-React",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/",
+      "BasePath": "_content/ASP-Dot-Net-MVC-Template-React",
+      "RelativePath": "vite#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "69kjnsiwqx",
+      "Integrity": "SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/vite.svg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "ASP-Dot-Net-MVC-Template-React.1domr6o6tr.bundle.scp.css",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/bzegimlvnu-1domr6o6tr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001811594203"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "551"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8yNhWRMqk7GFbtahBm9v7veTYOFDcqo1fOfzTB2vaTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:25:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1ff7WaPjEQBOfoxX56P0po/6gyYFZmWAB5O9/zqDPO8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1domr6o6tr"
+        },
+        {
+          "Name": "label",
+          "Value": "ASP-Dot-Net-MVC-Template-React.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1ff7WaPjEQBOfoxX56P0po/6gyYFZmWAB5O9/zqDPO8="
+        }
+      ]
+    },
+    {
+      "Route": "ASP-Dot-Net-MVC-Template-React.1domr6o6tr.bundle.scp.css",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/scopedcss/projectbundle/ASP-Dot-Net-MVC-Template-React.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1ff7WaPjEQBOfoxX56P0po/6gyYFZmWAB5O9/zqDPO8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:25:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1domr6o6tr"
+        },
+        {
+          "Name": "label",
+          "Value": "ASP-Dot-Net-MVC-Template-React.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1ff7WaPjEQBOfoxX56P0po/6gyYFZmWAB5O9/zqDPO8="
+        }
+      ]
+    },
+    {
+      "Route": "ASP-Dot-Net-MVC-Template-React.1domr6o6tr.bundle.scp.css.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/bzegimlvnu-1domr6o6tr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "551"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8yNhWRMqk7GFbtahBm9v7veTYOFDcqo1fOfzTB2vaTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:25:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1domr6o6tr"
+        },
+        {
+          "Name": "label",
+          "Value": "ASP-Dot-Net-MVC-Template-React.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8yNhWRMqk7GFbtahBm9v7veTYOFDcqo1fOfzTB2vaTk="
+        }
+      ]
+    },
+    {
+      "Route": "ASP-Dot-Net-MVC-Template-React.1domr6o6tr.styles.css",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/xnco7cft5x-1domr6o6tr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001811594203"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "551"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8yNhWRMqk7GFbtahBm9v7veTYOFDcqo1fOfzTB2vaTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:25:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1ff7WaPjEQBOfoxX56P0po/6gyYFZmWAB5O9/zqDPO8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1domr6o6tr"
+        },
+        {
+          "Name": "label",
+          "Value": "ASP-Dot-Net-MVC-Template-React.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1ff7WaPjEQBOfoxX56P0po/6gyYFZmWAB5O9/zqDPO8="
+        }
+      ]
+    },
+    {
+      "Route": "ASP-Dot-Net-MVC-Template-React.1domr6o6tr.styles.css",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/scopedcss/bundle/ASP-Dot-Net-MVC-Template-React.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1ff7WaPjEQBOfoxX56P0po/6gyYFZmWAB5O9/zqDPO8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:25:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1domr6o6tr"
+        },
+        {
+          "Name": "label",
+          "Value": "ASP-Dot-Net-MVC-Template-React.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1ff7WaPjEQBOfoxX56P0po/6gyYFZmWAB5O9/zqDPO8="
+        }
+      ]
+    },
+    {
+      "Route": "ASP-Dot-Net-MVC-Template-React.1domr6o6tr.styles.css.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/xnco7cft5x-1domr6o6tr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "551"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8yNhWRMqk7GFbtahBm9v7veTYOFDcqo1fOfzTB2vaTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:25:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1domr6o6tr"
+        },
+        {
+          "Name": "label",
+          "Value": "ASP-Dot-Net-MVC-Template-React.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8yNhWRMqk7GFbtahBm9v7veTYOFDcqo1fOfzTB2vaTk="
+        }
+      ]
+    },
+    {
+      "Route": "ASP-Dot-Net-MVC-Template-React.bundle.scp.css",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/bzegimlvnu-1domr6o6tr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001811594203"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "551"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8yNhWRMqk7GFbtahBm9v7veTYOFDcqo1fOfzTB2vaTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:25:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1ff7WaPjEQBOfoxX56P0po/6gyYFZmWAB5O9/zqDPO8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1ff7WaPjEQBOfoxX56P0po/6gyYFZmWAB5O9/zqDPO8="
+        }
+      ]
+    },
+    {
+      "Route": "ASP-Dot-Net-MVC-Template-React.bundle.scp.css",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/scopedcss/projectbundle/ASP-Dot-Net-MVC-Template-React.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1ff7WaPjEQBOfoxX56P0po/6gyYFZmWAB5O9/zqDPO8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:25:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1ff7WaPjEQBOfoxX56P0po/6gyYFZmWAB5O9/zqDPO8="
+        }
+      ]
+    },
+    {
+      "Route": "ASP-Dot-Net-MVC-Template-React.bundle.scp.css.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/bzegimlvnu-1domr6o6tr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "551"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8yNhWRMqk7GFbtahBm9v7veTYOFDcqo1fOfzTB2vaTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:25:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8yNhWRMqk7GFbtahBm9v7veTYOFDcqo1fOfzTB2vaTk="
+        }
+      ]
+    },
+    {
+      "Route": "ASP-Dot-Net-MVC-Template-React.styles.css",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/xnco7cft5x-1domr6o6tr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001811594203"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "551"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8yNhWRMqk7GFbtahBm9v7veTYOFDcqo1fOfzTB2vaTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:25:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1ff7WaPjEQBOfoxX56P0po/6gyYFZmWAB5O9/zqDPO8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1ff7WaPjEQBOfoxX56P0po/6gyYFZmWAB5O9/zqDPO8="
+        }
+      ]
+    },
+    {
+      "Route": "ASP-Dot-Net-MVC-Template-React.styles.css",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/scopedcss/bundle/ASP-Dot-Net-MVC-Template-React.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1ff7WaPjEQBOfoxX56P0po/6gyYFZmWAB5O9/zqDPO8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:25:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1ff7WaPjEQBOfoxX56P0po/6gyYFZmWAB5O9/zqDPO8="
+        }
+      ]
+    },
+    {
+      "Route": "ASP-Dot-Net-MVC-Template-React.styles.css.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/xnco7cft5x-1domr6o6tr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "551"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8yNhWRMqk7GFbtahBm9v7veTYOFDcqo1fOfzTB2vaTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:25:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8yNhWRMqk7GFbtahBm9v7veTYOFDcqo1fOfzTB2vaTk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-BrQhOZ60.js",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/72ns9bcvqc-zk7krcubt1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000016889039"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59209"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kl8zNOBaPaCQ8J3NeaIOKEcQS86udndT6WjLcKnN2EE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:11:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nVE8HvDbIbySCGzKXNL4OVdzDsWK/wX6FJ8zJ5FPGLg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nVE8HvDbIbySCGzKXNL4OVdzDsWK/wX6FJ8zJ5FPGLg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-BrQhOZ60.js",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/index-BrQhOZ60.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "188054"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nVE8HvDbIbySCGzKXNL4OVdzDsWK/wX6FJ8zJ5FPGLg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:11:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nVE8HvDbIbySCGzKXNL4OVdzDsWK/wX6FJ8zJ5FPGLg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-BrQhOZ60.js.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/72ns9bcvqc-zk7krcubt1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59209"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kl8zNOBaPaCQ8J3NeaIOKEcQS86udndT6WjLcKnN2EE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:11:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kl8zNOBaPaCQ8J3NeaIOKEcQS86udndT6WjLcKnN2EE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-BrQhOZ60.zk7krcubt1.js",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/72ns9bcvqc-zk7krcubt1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000016889039"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59209"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kl8zNOBaPaCQ8J3NeaIOKEcQS86udndT6WjLcKnN2EE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:11:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nVE8HvDbIbySCGzKXNL4OVdzDsWK/wX6FJ8zJ5FPGLg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zk7krcubt1"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-BrQhOZ60.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nVE8HvDbIbySCGzKXNL4OVdzDsWK/wX6FJ8zJ5FPGLg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-BrQhOZ60.zk7krcubt1.js",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/index-BrQhOZ60.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "188054"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nVE8HvDbIbySCGzKXNL4OVdzDsWK/wX6FJ8zJ5FPGLg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:11:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zk7krcubt1"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-BrQhOZ60.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nVE8HvDbIbySCGzKXNL4OVdzDsWK/wX6FJ8zJ5FPGLg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-BrQhOZ60.zk7krcubt1.js.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/72ns9bcvqc-zk7krcubt1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59209"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kl8zNOBaPaCQ8J3NeaIOKEcQS86udndT6WjLcKnN2EE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:11:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zk7krcubt1"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-BrQhOZ60.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kl8zNOBaPaCQ8J3NeaIOKEcQS86udndT6WjLcKnN2EE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-D8b4DHJx.css",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/vl9wjbw522-tyh8ydy1z3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001416430595"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "705"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FzuuRARQU5LUONfvxvJNxYE0QQrSuqSgnBwcXKXgNxs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:11:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"C93KjtBnMCaIdWVIcHbrBsOg72me6/gEIIHdxlo+Rqw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C93KjtBnMCaIdWVIcHbrBsOg72me6/gEIIHdxlo+Rqw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-D8b4DHJx.css",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/index-D8b4DHJx.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C93KjtBnMCaIdWVIcHbrBsOg72me6/gEIIHdxlo+Rqw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:11:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C93KjtBnMCaIdWVIcHbrBsOg72me6/gEIIHdxlo+Rqw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-D8b4DHJx.css.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/vl9wjbw522-tyh8ydy1z3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FzuuRARQU5LUONfvxvJNxYE0QQrSuqSgnBwcXKXgNxs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:11:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FzuuRARQU5LUONfvxvJNxYE0QQrSuqSgnBwcXKXgNxs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-D8b4DHJx.tyh8ydy1z3.css",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/vl9wjbw522-tyh8ydy1z3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001416430595"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "705"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FzuuRARQU5LUONfvxvJNxYE0QQrSuqSgnBwcXKXgNxs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:11:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"C93KjtBnMCaIdWVIcHbrBsOg72me6/gEIIHdxlo+Rqw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tyh8ydy1z3"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-D8b4DHJx.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C93KjtBnMCaIdWVIcHbrBsOg72me6/gEIIHdxlo+Rqw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-D8b4DHJx.tyh8ydy1z3.css",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/index-D8b4DHJx.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C93KjtBnMCaIdWVIcHbrBsOg72me6/gEIIHdxlo+Rqw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:11:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tyh8ydy1z3"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-D8b4DHJx.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C93KjtBnMCaIdWVIcHbrBsOg72me6/gEIIHdxlo+Rqw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-D8b4DHJx.tyh8ydy1z3.css.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/vl9wjbw522-tyh8ydy1z3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FzuuRARQU5LUONfvxvJNxYE0QQrSuqSgnBwcXKXgNxs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:11:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tyh8ydy1z3"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-D8b4DHJx.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FzuuRARQU5LUONfvxvJNxYE0QQrSuqSgnBwcXKXgNxs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/react-CHdo91hT.7trw0vijr1.svg",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/gyifwnp0ht-7trw0vijr1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000486854917"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2053"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kClC1v4PSVusr2o/hTKFS03Kov0IU5ScQPKjNOp7HqY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:11:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Ne9h7VOzI66UoWqOxlmz0K84gGmHkRM/I7CECFqxwuU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7trw0vijr1"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/react-CHdo91hT.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ne9h7VOzI66UoWqOxlmz0K84gGmHkRM/I7CECFqxwuU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/react-CHdo91hT.7trw0vijr1.svg",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/react-CHdo91hT.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ne9h7VOzI66UoWqOxlmz0K84gGmHkRM/I7CECFqxwuU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:11:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7trw0vijr1"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/react-CHdo91hT.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ne9h7VOzI66UoWqOxlmz0K84gGmHkRM/I7CECFqxwuU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/react-CHdo91hT.7trw0vijr1.svg.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/gyifwnp0ht-7trw0vijr1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2053"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kClC1v4PSVusr2o/hTKFS03Kov0IU5ScQPKjNOp7HqY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:11:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7trw0vijr1"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/react-CHdo91hT.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kClC1v4PSVusr2o/hTKFS03Kov0IU5ScQPKjNOp7HqY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/react-CHdo91hT.svg",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/gyifwnp0ht-7trw0vijr1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000486854917"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2053"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kClC1v4PSVusr2o/hTKFS03Kov0IU5ScQPKjNOp7HqY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:11:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Ne9h7VOzI66UoWqOxlmz0K84gGmHkRM/I7CECFqxwuU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ne9h7VOzI66UoWqOxlmz0K84gGmHkRM/I7CECFqxwuU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/react-CHdo91hT.svg",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/react-CHdo91hT.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ne9h7VOzI66UoWqOxlmz0K84gGmHkRM/I7CECFqxwuU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:11:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ne9h7VOzI66UoWqOxlmz0K84gGmHkRM/I7CECFqxwuU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/react-CHdo91hT.svg.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/gyifwnp0ht-7trw0vijr1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2053"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kClC1v4PSVusr2o/hTKFS03Kov0IU5ScQPKjNOp7HqY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:11:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kClC1v4PSVusr2o/hTKFS03Kov0IU5ScQPKjNOp7HqY="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/ygga38f6d2-s2su7bvccb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003289473684"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "303"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tOJTqZtFMwV1QDFAyc4hKyA1yL9Qs1E2TPH/4ydQZdw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Aug 2025 07:38:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"pEzE51/MCiYEUnI2wkbWd0NX2jIX1YQSwATthF19Bs8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pEzE51/MCiYEUnI2wkbWd0NX2jIX1YQSwATthF19Bs8="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pEzE51/MCiYEUnI2wkbWd0NX2jIX1YQSwATthF19Bs8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Aug 2025 07:38:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pEzE51/MCiYEUnI2wkbWd0NX2jIX1YQSwATthF19Bs8="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/ygga38f6d2-s2su7bvccb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "303"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tOJTqZtFMwV1QDFAyc4hKyA1yL9Qs1E2TPH/4ydQZdw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Aug 2025 07:38:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tOJTqZtFMwV1QDFAyc4hKyA1yL9Qs1E2TPH/4ydQZdw="
+        }
+      ]
+    },
+    {
+      "Route": "index.s2su7bvccb.html",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/ygga38f6d2-s2su7bvccb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003289473684"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "303"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tOJTqZtFMwV1QDFAyc4hKyA1yL9Qs1E2TPH/4ydQZdw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Aug 2025 07:38:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"pEzE51/MCiYEUnI2wkbWd0NX2jIX1YQSwATthF19Bs8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s2su7bvccb"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pEzE51/MCiYEUnI2wkbWd0NX2jIX1YQSwATthF19Bs8="
+        }
+      ]
+    },
+    {
+      "Route": "index.s2su7bvccb.html",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pEzE51/MCiYEUnI2wkbWd0NX2jIX1YQSwATthF19Bs8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Aug 2025 07:38:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s2su7bvccb"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pEzE51/MCiYEUnI2wkbWd0NX2jIX1YQSwATthF19Bs8="
+        }
+      ]
+    },
+    {
+      "Route": "index.s2su7bvccb.html.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/ygga38f6d2-s2su7bvccb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "303"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tOJTqZtFMwV1QDFAyc4hKyA1yL9Qs1E2TPH/4ydQZdw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Aug 2025 07:38:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s2su7bvccb"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tOJTqZtFMwV1QDFAyc4hKyA1yL9Qs1E2TPH/4ydQZdw="
+        }
+      ]
+    },
+    {
+      "Route": "vite.69kjnsiwqx.svg",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/r6d8f7m5a1-69kjnsiwqx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001288659794"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "775"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1AU3txN9n5Dd653zBLam5zvwTi+8uF/FPEP9hABUE48=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:11:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "69kjnsiwqx"
+        },
+        {
+          "Name": "label",
+          "Value": "vite.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    },
+    {
+      "Route": "vite.69kjnsiwqx.svg",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/vite.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:11:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "69kjnsiwqx"
+        },
+        {
+          "Name": "label",
+          "Value": "vite.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    },
+    {
+      "Route": "vite.69kjnsiwqx.svg.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/r6d8f7m5a1-69kjnsiwqx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "775"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1AU3txN9n5Dd653zBLam5zvwTi+8uF/FPEP9hABUE48=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:11:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "69kjnsiwqx"
+        },
+        {
+          "Name": "label",
+          "Value": "vite.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1AU3txN9n5Dd653zBLam5zvwTi+8uF/FPEP9hABUE48="
+        }
+      ]
+    },
+    {
+      "Route": "vite.svg",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/r6d8f7m5a1-69kjnsiwqx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001288659794"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "775"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1AU3txN9n5Dd653zBLam5zvwTi+8uF/FPEP9hABUE48=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:11:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    },
+    {
+      "Route": "vite.svg",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/vite.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:11:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    },
+    {
+      "Route": "vite.svg.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/r6d8f7m5a1-69kjnsiwqx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "775"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1AU3txN9n5Dd653zBLam5zvwTi+8uF/FPEP9hABUE48=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 03 Aug 2025 16:11:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1AU3txN9n5Dd653zBLam5zvwTi+8uF/FPEP9hABUE48="
+        }
+      ]
+    }
+  ]
+}
