@@ -2,6 +2,7 @@ import { motion as Motion } from 'framer-motion'
 import { useState, useEffect } from 'react'
 import Button from '../../components/ui/Button'
 import reactLogo from '../../assets/react.svg'
+import ThemeToggle from '../../components/ThemeToggle'
 import viteLogo from '/vite.svg'
 
 export default function LandingPage() {
@@ -69,6 +70,7 @@ export default function LandingPage() {
                         >
                             count is {count}
                         </Button>
+                        <ThemeToggle />
                         <p className="mt-4">
                             Edit <code className="bg-gray-100 p-1 rounded">src/App.jsx</code> and save to test HMR
                         </p>

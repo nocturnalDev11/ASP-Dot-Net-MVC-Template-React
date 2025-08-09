@@ -1,17 +1,5 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React.1domr6o6tr.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ASP-Dot-Net-MVC-Template-React.1domr6o6tr.bundle.scp.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1domr6o6tr"},{"Name":"integrity","Value":"sha256-1ff7WaPjEQBOfoxX56P0po/6gyYFZmWAB5O9/zqDPO8="},{"Name":"label","Value":"_content/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1099"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00221ff7WaPjEQBOfoxX56P0po/6gyYFZmWAB5O9/zqDPO8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 03 Aug 2025 16:25:54 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ASP-Dot-Net-MVC-Template-React.1domr6o6tr.bundle.scp.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1ff7WaPjEQBOfoxX56P0po/6gyYFZmWAB5O9/zqDPO8="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1099"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00221ff7WaPjEQBOfoxX56P0po/6gyYFZmWAB5O9/zqDPO8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 03 Aug 2025 16:25:54 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ASP-Dot-Net-MVC-Template-React/assets/index-BrQhOZ60.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\index-BrQhOZ60.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

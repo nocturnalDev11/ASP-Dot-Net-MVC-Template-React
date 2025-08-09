@@ -14,17 +14,11 @@
 /home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/ASP-Dot-Net-MVC-Template-React.AssemblyInfo.cs
 /home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/ASP-Dot-Net-MVC-Template-React.csproj.CoreCompileInputs.cache
 /home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/ASP-Dot-Net-MVC-Template-React.MvcApplicationPartsAssemblyInfo.cache
-/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/ASP-Dot-Net-MVC-Template-React.RazorAssemblyInfo.cache
-/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/ASP-Dot-Net-MVC-Template-React.RazorAssemblyInfo.cs
-/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/scopedcss/bundle/ASP-Dot-Net-MVC-Template-React.styles.css
-/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/scopedcss/projectbundle/ASP-Dot-Net-MVC-Template-React.bundle.scp.css
 /home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/72ns9bcvqc-zk7krcubt1.gz
 /home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/vl9wjbw522-tyh8ydy1z3.gz
 /home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/gyifwnp0ht-7trw0vijr1.gz
 /home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/r6d8f7m5a1-69kjnsiwqx.gz
-/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/xnco7cft5x-1domr6o6tr.gz
-/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/bzegimlvnu-1domr6o6tr.gz
 /home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/staticwebassets.build.json
 /home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/staticwebassets.development.json
 /home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/staticwebassets.build.endpoints.json
@@ -40,3 +34,4 @@
 /home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/ASP-Dot-Net-MVC-Template-React.genruntimeconfig.cache
 /home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/ref/ASP-Dot-Net-MVC-Template-React.dll
 /home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/ygga38f6d2-s2su7bvccb.gz
+/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/ASP-Dot-Net-MVC-Template-React.sourcelink.json

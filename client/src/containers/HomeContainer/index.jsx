@@ -1,6 +1,18 @@
+import React from 'react';
+import { FaHome } from 'react-icons/fa';
+import Card from '../../components/ui/Card';
+
 export default function HomeContainer() {
     return (
-        <main className="space-y-5">
+        <Card
+            title={
+                <div className="flex items-center gap-2">
+                    <FaHome className="text-neutral-800 dark:text-neutral-500" size={18} />
+                    Custom Header
+                </div>
+            }
+            footer={<button className="text-blue-500">Learn More</button>}
+        >
             <div className="flex items-center justify-between">
                 <div className="flex flex-col">
                     <h3 className="text-xl font-semibold text-neutral-800 dark:text-neutral-400 flex items-center">
@@ -28,6 +40,6 @@ export default function HomeContainer() {
                     </p>
                 </div>
             </div>
-        </main>
+        </Card>
     );
 }
