@@ -45,13 +45,13 @@ export default function LandingPage() {
 
     return (
         <Motion.main
-            className="flex flex-col space-y-5"
+            className="flex items-center justify-center min-h-screen"
             variants={containerVariants}
             initial="hidden"
             animate="visible"
         >
             <Motion.div variants={childVariants}>
-                <div className="max-w-5xl mx-auto p-8 text-center">
+                <div className="max-w-5xl mx-auto text-center">
                     <div className="flex justify-center gap-4">
                         <a href="https://vite.dev" target="_blank">
                             <img src={viteLogo} className="h-24 p-6 transition-shadow duration-300 hover:drop-shadow-[0_0_2em_#646cffaa]" alt="Vite logo" />
