@@ -9,7 +9,7 @@ export default function NavLink({ to, children }) {
     const activeClasses = "text-white bg-blue-700 md:bg-transparent md:text-blue-700 md:dark:text-blue-500";
 
     const inactiveClasses =
-        "text-gray-900 hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:dark:hover:text-blue-500 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700";
+        "text-neutral-900 hover:bg-neutral-100 md:hover:bg-transparent md:hover:text-blue-700 md:dark:hover:text-blue-500 dark:text-white dark:hover:bg-neutral-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-neutral-700";
 
     return (
         <Link

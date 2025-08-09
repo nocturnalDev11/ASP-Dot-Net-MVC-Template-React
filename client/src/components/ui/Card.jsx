@@ -11,12 +11,12 @@ const Card = ({
     footerClassName = '' 
 }) => {
     return (
-        <div className={`flex flex-col bg-white border border-gray-200 shadow-2xs rounded-xl dark:bg-neutral-900 dark:border-neutral-700 dark:shadow-neutral-700/70 ${className}`}>
+        <div className={`flex flex-col bg-white border border-neutral-200 shadow-2xs rounded-xl dark:bg-neutral-900 dark:border-neutral-700 dark:shadow-neutral-700/70 ${className}`}>
         
             {title && (
-                <div className={`bg-gray-100 border-b border-gray-200 rounded-t-xl py-2 px-4 md:py-4 md:px-5 dark:bg-neutral-900 dark:border-neutral-700 ${headerClassName}`}>
+                <div className={`bg-neutral-100 border-b border-neutral-200 rounded-t-xl py-2 px-4 md:py-4 md:px-5 dark:bg-neutral-900 dark:border-neutral-700 ${headerClassName}`}>
                 {typeof title === 'string' ? (
-                    <h2 className="text-lg font-semibold text-gray-800 dark:text-white">
+                    <h2 className="text-lg font-semibold text-neutral-800 dark:text-white">
                         {title}
                     </h2>
                 ) : (
@@ -30,9 +30,9 @@ const Card = ({
             </div>
 
             {footer && (
-                <div className={`bg-gray-100 border-t border-gray-200 rounded-b-xl py-2 px-4 md:py-4 md:px-5 dark:bg-neutral-900 dark:border-neutral-700 ${footerClassName}`}>
+                <div className={`bg-neutral-100 border-t border-neutral-200 rounded-b-xl py-2 px-4 md:py-4 md:px-5 dark:bg-neutral-900 dark:border-neutral-700 ${footerClassName}`}>
                     {typeof footer === 'string' ? (
-                        <p className="mt-1 text-sm text-gray-500 dark:text-neutral-500">
+                        <p className="mt-1 text-sm text-neutral-500 dark:text-neutral-500">
                             {footer}
                         </p>
                     ) : (

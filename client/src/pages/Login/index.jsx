@@ -35,9 +35,11 @@ export default function LoginPage() {
             animate="visible"
         >
             <Motion.div variants={childVariants}>
-                Login Page 
+                <p className="dark:text-white text-black text-2xl font-bold">
+                    Login Page 
 
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorum nam nulla nobis porro maiores consequatur tempore beatae excepturi dolores odio rerum culpa, omnis, ullam corrupti recusandae saepe aliquam dolore. Magni!
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorum nam nulla nobis porro maiores consequatur tempore beatae excepturi dolores odio rerum culpa, omnis, ullam corrupti recusandae saepe aliquam dolore. Magni!
+                </p>
             </Motion.div>
         </Motion.main>
     );

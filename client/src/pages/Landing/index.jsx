@@ -66,16 +66,16 @@ export default function LandingPage() {
                     <div className="p-8 mt-4">
                         <Button 
                             onClick={() => setCount((count) => count + 1)}
-                            className="bg-gray-500 text-white rounded hover:bg-gray-600"
+                            className="bg-neutral-500 text-white rounded hover:bg-neutral-600"
                         >
                             count is {count}
                         </Button>
                         <ThemeToggle />
                         <p className="mt-4">
-                            Edit <code className="bg-gray-100 p-1 rounded">src/App.jsx</code> and save to test HMR
+                            Edit <code className="bg-neutral-100 p-1 rounded">src/App.jsx</code> and save to test HMR
                         </p>
                     </div>
-                    <p className="text-gray-500 mt-4">
+                    <p className="text-neutral-500 mt-4">
                         Click on the Vite and React logos to learn more
                     </p>
                 </div>

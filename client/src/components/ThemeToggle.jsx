@@ -25,7 +25,7 @@ export default function ThemeToggle() {
     return (
         <button
             onClick={() => setTheme(theme === "light" ? "dark" : "light")}
-            className="p-3 rounded-lg bg-gray-300 text-black  dark:bg-gray-700 dark:text-white transition-colors cursor-pointer hover:bg-gray-400 dark:hover:bg-gray-600"
+            className="p-3 rounded-lg bg-neutral-300 text-black  dark:bg-neutral-700 dark:text-white transition-colors cursor-pointer hover:bg-neutral-400 dark:hover:bg-neutral-600"
         >
             {theme === "light" ? (
                 <FaMoon size={20} />
