@@ -1,6 +1,6 @@
 import { motion as Motion } from 'framer-motion'
 import { FaHome } from 'react-icons/fa'
-import Card from '../../components/ui/Card'
+import Card from '../components/ui/Card'
 
 export default function HomePage() {
     const containerVariants = {

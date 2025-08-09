@@ -4,19 +4,25 @@ export const routes = [
     {
         path: '/',
         name: 'Landing page',
-        element: lazy(() => import('../pages/Landing')),
+        element: lazy(() => import('../pages/LandingPage.jsx')),
         showInNav: true,
+    },
+    {
+        path: '/register',
+        name: 'Register',
+        element: lazy(() => import('../pages/Auth/UserRegister.jsx')),
+        showInNav: false,
     },
     {
         path: '/login',
         name: 'Login',
-        element: lazy(() => import('../pages/Login')),
+        element: lazy(() => import('../pages/Auth/UserLogin.jsx')),
         showInNav: false,
     },
     {
         path: '/home-page',
         name: 'Home page',
-        element: lazy(() => import('../pages/Home')),
+        element: lazy(() => import('../pages/Home.jsx')),
         showInNav: true,
     },
 ];
