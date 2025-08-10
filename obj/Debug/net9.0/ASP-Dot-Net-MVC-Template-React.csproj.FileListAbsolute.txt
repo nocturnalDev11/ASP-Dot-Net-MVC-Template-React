@@ -1,7 +1,7 @@
 /home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/bin/Debug/net9.0/appsettings.Development.json
 /home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/bin/Debug/net9.0/appsettings.json
-/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/bin/Debug/net9.0/client/package-lock.json
-/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/bin/Debug/net9.0/client/package.json
+/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/bin/Debug/net9.0/View/package-lock.json
+/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/bin/Debug/net9.0/View/package.json
 /home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/bin/Debug/net9.0/ASP-Dot-Net-MVC-Template-React.staticwebassets.runtime.json
 /home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/bin/Debug/net9.0/ASP-Dot-Net-MVC-Template-React.staticwebassets.endpoints.json
 /home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/bin/Debug/net9.0/ASP-Dot-Net-MVC-Template-React

@@ -4,7 +4,7 @@ import Card from '../../components/ui/Card'
 import Input from '../../components/forms/Input'
 import Button from '../../components/ui/Button'
 
-export default function UserRegister() {
+export default function UserLogin() {
     const containerVariants = {
         hidden: { opacity: 0, y: 20 },
         visible: {
@@ -40,7 +40,7 @@ export default function UserRegister() {
             <Motion.div variants={childVariants}>
                 <div className="max-w-5xl mx-auto text-center">
                     <Card>
-                        <h1 className="text-2xl font-bold mb-6 text-center">Register</h1>
+                        <h1 className="text-2xl font-bold mb-6 text-center dark:text-neutral-100">Login</h1>
                         <form className="space-y-4">
                             <Input 
                                 type="text" 
@@ -63,7 +63,7 @@ export default function UserRegister() {
                             </Button>
                         </form>
                         <p className="mt-4 text-sm text-gray-600 dark:text-gray-400">
-                            Already have an account? <a href="/login" className="text-indigo-600 dark:text-indigo-400 hover:underline">Login</a>
+                            Don't have an account? <a href="/register" className="text-indigo-600 dark:text-indigo-400 hover:underline">Register</a>
                         </p>
                     </Card>
                 </div>

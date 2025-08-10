@@ -41,7 +41,7 @@ export default function HomePage() {
                         title={
                             <div className="flex items-center gap-2">
                                 <FaHome className="text-neutral-800 dark:text-neutral-500" size={18} />
-                                Custom Header
+                                Home page
                             </div>
                         }
                         footer={<button className="text-blue-500">Learn More</button>}
@@ -49,7 +49,7 @@ export default function HomePage() {
                         <div className="space-y-5">
                             <div>
                                 <h1 className="text-2xl sm:text-4xl font-bold mb-2 text-center sm:text-left">
-                                    Home Page
+                                    Hi, // insert username syntax here
                                 </h1>
                                 <p className="text-neutral-700 dark:text-neutral-300 text-md sm:text-lg my-4 text-center sm:text-left">
                                     Welcome to Homepage
