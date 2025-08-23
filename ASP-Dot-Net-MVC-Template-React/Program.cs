@@ -103,19 +103,7 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
-// SPA fallback
-app.MapFallback(context =>
-{
-    var path = context.Request.Path.Value ?? "";
-    if (path.StartsWith("/api"))
-    {
-        context.Response.StatusCode = 404;
-        return Task.CompletedTask;
-    }
-
-    context.Response.ContentType = "text/html";
-    return context.Response.SendFileAsync(
-        Path.Combine(app.Environment.WebRootPath, "index.html"));
-});
+// SPA fallback (for frontend routes only)
+app.MapFallbackToFile("index.html");
 
 app.Run();

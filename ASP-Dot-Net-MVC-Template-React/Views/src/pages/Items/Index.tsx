@@ -1,8 +1,9 @@
 import { motion } from 'framer-motion';
 import type { Variants } from 'framer-motion';
+import { FaList } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 import Card from '../../components/ui/Card';
-import { FaList } from 'react-icons/fa';
+import CreateItem from './Create';
 
 export default function ItemsPage() {
     const containerVariants: Variants = {
@@ -61,6 +62,10 @@ export default function ItemsPage() {
                                     Welcome to Homepage
                                     Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium, eum?
                                 </p>
+
+                                <div className="flex justify-center sm:justify-start">
+                                    <CreateItem />
+                                </div>
                             </div>
                         </div>
                     </Card>

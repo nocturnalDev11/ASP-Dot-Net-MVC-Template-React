@@ -1,14 +1,14 @@
-using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Authorization;
 using ASP_Dot_Net_MVC_CRUD_Template.Models;
-using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims; 
 using System.Linq;
-using System;
 
 namespace ASP_Dot_Net_MVC_CRUD_Template.Controllers
 {
-    public class ItemController : Controller
+    [Route("api/[controller]")]
+    [ApiController]
+    public class ItemController : ControllerBase
     {
         private readonly AppDbContext _context;
 
@@ -17,134 +17,54 @@ namespace ASP_Dot_Net_MVC_CRUD_Template.Controllers
             _context = context;
         }
 
-        private int GetCurrentUserIdFromJwt()
+        [HttpGet]
+        public IActionResult GetAll() => Ok(_context.Items.ToList());
+
+        [HttpGet("{id}")]
+        public IActionResult Get(int id)
         {
-            var jwt = HttpContext.Session.GetString("JWT");
-            if (string.IsNullOrEmpty(jwt))
-                throw new Exception("JWT not found in session.");
-
-            var handler = new JwtSecurityTokenHandler();
-            var token = handler.ReadJwtToken(jwt);
-
-            var userIdClaim = token.Claims.FirstOrDefault(c =>
-                c.Type == "nameid" ||
-                c.Type == "sub" ||
-                c.Type == "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier"
-            );
-
-            if (userIdClaim == null)
-                throw new Exception("UserId claim not found in JWT.");
-
-            return int.Parse(userIdClaim.Value);
-        }
-
-        private IActionResult? CheckSession()
-        {
-            if (string.IsNullOrEmpty(HttpContext.Session.GetString("JWT")))
-            {
-                return RedirectToAction("Login", "User");
-            }
-
-            return null;
-        }
-
-        public IActionResult Index()
-        {
-            var sessionCheck = CheckSession();
-            if (sessionCheck != null) return sessionCheck;
-
-            return View(_context.Items.ToList());
-        }
-
-        public IActionResult Create()
-        {
-            var sessionCheck = CheckSession();
-            if (sessionCheck != null) return sessionCheck;
-
-            return View();
-        }
-
-        [HttpPost]
-        public IActionResult Create(Item item)
-        {
-            var sessionCheck = CheckSession();
-            if (sessionCheck != null) return sessionCheck;
-
-            try
-            {
-                item.UserId = GetCurrentUserIdFromJwt();
-
-                Console.WriteLine("Create POST reached");
-                Console.WriteLine($"Item Name: {item.SampleString}, UserId: {item.UserId}");
-                Console.WriteLine("JWT from session: " + HttpContext.Session.GetString("JWT"));
-
-                if (ModelState.IsValid)
-                {
-                    _context.Items.Add(item);
-                    _context.SaveChanges();
-                    return RedirectToAction("Index");
-                }
-            }
-            catch (Exception ex)
-            {
-                ViewBag.Error = ex.Message;
-                Console.WriteLine("ERROR: " + ex.Message);
-            }
-
-            return View(item);
-        }
-
-        public IActionResult Edit(int id)
-        {
-            var sessionCheck = CheckSession();
-            if (sessionCheck != null) return sessionCheck;
-
             var item = _context.Items.Find(id);
-            return item == null ? NotFound() : View(item);
+            return item == null ? NotFound() : Ok(item);
         }
 
+        [Authorize]
         [HttpPost]
-        public IActionResult Edit(Item item)
+        public IActionResult Create([FromBody] Item item)
         {
-            var sessionCheck = CheckSession();
-            if (sessionCheck != null) return sessionCheck;
-
-            _context.Items.Update(item);
+            item.UserId = int.Parse(User.Claims.First(c => c.Type == ClaimTypes.NameIdentifier).Value);
+            _context.Items.Add(item);
             _context.SaveChanges();
-            return RedirectToAction("Index");
+            return CreatedAtAction(nameof(Get), new { id = item.Id }, item);
         }
 
+        [HttpPut("{id}")]
+        public IActionResult Update(int id, [FromBody] Item item)
+        {
+            var existing = _context.Items.Find(id);
+            if (existing == null) return NotFound();
+
+            existing.SampleString = item.SampleString;
+            existing.SampleNumber = item.SampleNumber;
+            existing.SampleDecimal = item.SampleDecimal;
+            existing.SampleDouble = item.SampleDouble;
+            existing.SampleFloat = item.SampleFloat;
+            existing.SampleBool = item.SampleBool;
+            existing.SampleCharacter = item.SampleCharacter;
+
+            _context.Items.Update(existing);
+            _context.SaveChanges();
+            return NoContent();
+        }
+
+        [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
-            var sessionCheck = CheckSession();
-            if (sessionCheck != null) return sessionCheck;
-
             var item = _context.Items.Find(id);
-            return item == null ? NotFound() : View(item);
-        }
+            if (item == null) return NotFound();
 
-        [HttpPost, ActionName("Delete")]
-        public IActionResult DeleteConfirmed(int id)
-        {
-            var sessionCheck = CheckSession();
-            if (sessionCheck != null) return sessionCheck;
-
-            var item = _context.Items.Find(id);
-            if (item != null)
-            {
-                _context.Items.Remove(item);
-                _context.SaveChanges();
-            }
-            return RedirectToAction("Index");
-        }
-
-        public IActionResult Details(int id)
-        {
-            var sessionCheck = CheckSession();
-            if (sessionCheck != null) return sessionCheck;
-
-            var item = _context.Items.Find(id);
-            return item == null ? NotFound() : View(item);
+            _context.Items.Remove(item);
+            _context.SaveChanges();
+            return NoContent();
         }
     }
 }

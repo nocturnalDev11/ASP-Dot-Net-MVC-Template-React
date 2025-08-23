@@ -1,7 +1,7 @@
 import type { ChangeEvent, InputHTMLAttributes, ElementType } from 'react';
 
 interface InputProps extends InputHTMLAttributes<HTMLInputElement> {
-    value: string;
+    value: string | number; 
     onChange: (e: ChangeEvent<HTMLInputElement>) => void;
     icon?: ElementType;
     name: string;
