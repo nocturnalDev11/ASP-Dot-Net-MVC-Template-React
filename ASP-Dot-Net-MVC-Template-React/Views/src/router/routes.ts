@@ -35,4 +35,11 @@ export const routes: AppRoute[] = [
         showInNav: true,
         protected: true,
     },
+    {
+        path: "/all-items",
+        name: "Items",
+        element: lazy(() => import("../pages/Items/Index")),
+        showInNav: true,
+        protected: true,
+    },
 ];

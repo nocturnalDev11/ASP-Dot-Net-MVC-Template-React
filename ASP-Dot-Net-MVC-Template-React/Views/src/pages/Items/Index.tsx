@@ -1,22 +1,10 @@
-import { useEffect } from 'react';
 import { motion } from 'framer-motion';
-import { Link } from 'react-router-dom';
 import type { Variants } from 'framer-motion';
-import { FaHome } from 'react-icons/fa';
-import Card from '../components/ui/Card';
-import { useAuth } from '../hooks/useAuth';
-import { useAuthStore } from '../stores/auth.store';
+import { Link } from 'react-router-dom';
+import Card from '../../components/ui/Card';
+import { FaList } from 'react-icons/fa';
 
-export default function HomePage() {
-    const { user } = useAuth();
-
-    // TEMP TEST: log store contents
-    useEffect(() => {
-        const store = useAuthStore.getState();
-        console.log("STORE USER:", store.user);
-        console.log("STORE TOKEN:", store.token);
-    }, []);
-
+export default function ItemsPage() {
     const containerVariants: Variants = {
         hidden: { opacity: 0, y: 20 },
         visible: {
@@ -54,27 +42,24 @@ export default function HomePage() {
                     <Card
                         title={
                             <div className="flex items-center gap-2">
-                                <FaHome className="text-neutral-800 dark:text-neutral-500" size={18} />
-                                <span className="dark:text-neutral-300">Home page</span>
+                                <FaList className="text-neutral-800 dark:text-neutral-500" size={18} />
+                                <span className="dark:text-neutral-300">All Items</span>
                             </div>
                         }
                         footer={
                             <Link
-                                to="/all-items"
+                                to="/home-page"
                                 className="text-blue-500 hover:underline"
                             >
-                                List of Items
+                                Back to Home
                             </Link>
                         }
                     >
                         <div className="space-y-5">
                             <div>
-                                <h1 className="text-2xl sm:text-4xl font-bold dark:text-white mb-2 text-center sm:text-left">
-                                    Hi, { user?.firstName || 'Guest' }!
-                                </h1>
                                 <p className="text-neutral-700 dark:text-neutral-300 text-md sm:text-lg my-4 text-center sm:text-left">
                                     Welcome to Homepage
-                                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium, eum? Consectetur, dicta rem maxime aliquid incidunt error assumenda impedit quis iure! Temporibus ut sapiente commodi atque repellat minima maiores illo?
+                                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium, eum?
                                 </p>
                             </div>
                         </div>
