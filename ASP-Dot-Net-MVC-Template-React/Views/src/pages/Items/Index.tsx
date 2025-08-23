@@ -1,11 +1,14 @@
 import { motion } from 'framer-motion';
 import type { Variants } from 'framer-motion';
+import { useItems } from '../../hooks/useItems';
 import { FaList } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 import Card from '../../components/ui/Card';
 import CreateItem from './Create';
 
 export default function ItemsPage() {
+    const { items, loading } = useItems(); 
+    
     const containerVariants: Variants = {
         hidden: { opacity: 0, y: 20 },
         visible: {
@@ -43,30 +46,38 @@ export default function ItemsPage() {
                     <Card
                         title={
                             <div className="flex items-center gap-2">
-                                <FaList className="text-neutral-800 dark:text-neutral-500" size={18} />
-                                <span className="dark:text-neutral-300">All Items</span>
+                                <FaList size={18} />
+                                <span>All Items</span>
                             </div>
                         }
                         footer={
-                            <Link
-                                to="/home-page"
-                                className="text-blue-500 hover:underline"
-                            >
+                            <Link to="/home-page" className="text-blue-500 hover:underline">
                                 Back to Home
                             </Link>
                         }
                     >
-                        <div className="space-y-5">
-                            <div>
-                                <p className="text-neutral-700 dark:text-neutral-300 text-md sm:text-lg my-4 text-center sm:text-left">
-                                    Welcome to Homepage
-                                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium, eum?
-                                </p>
+                        <div className="flex justify-center sm:justify-start mb-4">
+                            <CreateItem />
+                        </div>
 
-                                <div className="flex justify-center sm:justify-start">
-                                    <CreateItem />
-                                </div>
-                            </div>
+                        {/* Render all items here */}
+                        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+                            {loading ? (
+                                <p>Loading items...</p>
+                            ) : items.length === 0 ? (
+                                <p>No items found.</p>
+                            ) : (
+                                items.map(item => (
+                                    <Card key={item.id} title={item.sampleString}>
+                                        <p>Number: {item.sampleNumber}</p>
+                                        <p>Decimal: {item.sampleDecimal}</p>
+                                        <p>Double: {item.sampleDouble}</p>
+                                        <p>Float: {item.sampleFloat}</p>
+                                        <p>Bool: {item.sampleBool ? 'Yes' : 'No'}</p>
+                                        <p>Character: {item.sampleCharacter}</p>
+                                    </Card>
+                                ))
+                            )}
                         </div>
                     </Card>
                 </div>
