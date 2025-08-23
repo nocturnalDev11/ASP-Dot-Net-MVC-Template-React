@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP-Dot-Net-MVC-Template-React")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2714e11ca114199d4090390ef38d50bd1e03cfe6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+600c892cf516eeb9807682db4d8847acb4425c1b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP-Dot-Net-MVC-Template-React")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP-Dot-Net-MVC-Template-React")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

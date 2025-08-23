@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using ASP_Dot_Net_MVC_CRUD_Template.Models.Dto;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using System.Security.Claims;
 
 [ApiController]
@@ -31,7 +32,7 @@ public class UserApiController : ControllerBase
             FirstName = user.FirstName ?? "",
             LastName = user.LastName ?? "",
             UserName = user.UserName ?? "",
-            Email = user.Email,
+            Email = user.Email ?? "",
             PhoneNumber = user.PhoneNumber,
             Address = user.Address,
             BirthDate = user.BirthDate

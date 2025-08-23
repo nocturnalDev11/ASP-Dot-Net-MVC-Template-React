@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Zd12DynfG22SSVV/J1ZuaUOnpL8hPGZkmyS2qpQGLx4=",
+  "Hash": "XmNWgo5J2YIX7bJmDESkfAZgN/kHYDKxHSUVXMBsrjQ=",
   "Source": "ASP-Dot-Net-MVC-Template-React",
   "BasePath": "_content/ASP-Dot-Net-MVC-Template-React",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ASP-Dot-Net-MVC-Template-React/wwwroot",
       "Source": "ASP-Dot-Net-MVC-Template-React",
-      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/wwwroot/",
+      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/",
       "BasePath": "_content/ASP-Dot-Net-MVC-Template-React",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/2njra2i5uv-jqj506d2oj.gz",
+      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/2njra2i5uv-jqj506d2oj.gz",
       "SourceId": "ASP-Dot-Net-MVC-Template-React",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/",
+      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/ASP-Dot-Net-MVC-Template-React",
       "RelativePath": "assets/index-Cy2Cw03H#[.{fingerprint=jqj506d2oj}]?.js.gz",
       "AssetKind": "All",
@@ -28,20 +28,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/index-Cy2Cw03H.js",
+      "RelatedAsset": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/index-Cy2Cw03H.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "f965woazsp",
       "Integrity": "847wxMngzd8hudDDNPhIGqrsLkK+9PVg9DHptYBBHWQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/index-Cy2Cw03H.js"
+      "OriginalItemSpec": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/index-Cy2Cw03H.js"
     },
     {
-      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/gyifwnp0ht-7trw0vijr1.gz",
+      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/gyifwnp0ht-7trw0vijr1.gz",
       "SourceId": "ASP-Dot-Net-MVC-Template-React",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/",
+      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/ASP-Dot-Net-MVC-Template-React",
       "RelativePath": "assets/react-CHdo91hT#[.{fingerprint=7trw0vijr1}]?.svg.gz",
       "AssetKind": "All",
@@ -49,20 +49,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/react-CHdo91hT.svg",
+      "RelatedAsset": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/react-CHdo91hT.svg",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "8yyy5bkqom",
       "Integrity": "kClC1v4PSVusr2o/hTKFS03Kov0IU5ScQPKjNOp7HqY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/react-CHdo91hT.svg"
+      "OriginalItemSpec": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/react-CHdo91hT.svg"
     },
     {
-      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/r6d8f7m5a1-69kjnsiwqx.gz",
+      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/r6d8f7m5a1-69kjnsiwqx.gz",
       "SourceId": "ASP-Dot-Net-MVC-Template-React",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/",
+      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/ASP-Dot-Net-MVC-Template-React",
       "RelativePath": "vite#[.{fingerprint=69kjnsiwqx}]?.svg.gz",
       "AssetKind": "All",
@@ -70,20 +70,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/wwwroot/vite.svg",
+      "RelatedAsset": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/vite.svg",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "0v179rs1ub",
       "Integrity": "1AU3txN9n5Dd653zBLam5zvwTi+8uF/FPEP9hABUE48=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/wwwroot/vite.svg"
+      "OriginalItemSpec": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/vite.svg"
     },
     {
-      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/vl9wjbw522-tyh8ydy1z3.gz",
+      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/vl9wjbw522-tyh8ydy1z3.gz",
       "SourceId": "ASP-Dot-Net-MVC-Template-React",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/",
+      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/ASP-Dot-Net-MVC-Template-React",
       "RelativePath": "assets/index-D8b4DHJx#[.{fingerprint=tyh8ydy1z3}]?.css.gz",
       "AssetKind": "All",
@@ -91,20 +91,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/index-D8b4DHJx.css",
+      "RelatedAsset": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/index-D8b4DHJx.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "dfcosh767a",
       "Integrity": "FzuuRARQU5LUONfvxvJNxYE0QQrSuqSgnBwcXKXgNxs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/index-D8b4DHJx.css"
+      "OriginalItemSpec": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/index-D8b4DHJx.css"
     },
     {
-      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/ygga38f6d2-v3mkl2sqs7.gz",
+      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/ygga38f6d2-v3mkl2sqs7.gz",
       "SourceId": "ASP-Dot-Net-MVC-Template-React",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/",
+      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/ASP-Dot-Net-MVC-Template-React",
       "RelativePath": "index#[.{fingerprint=v3mkl2sqs7}]?.html.gz",
       "AssetKind": "All",
@@ -112,20 +112,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/wwwroot/index.html",
+      "RelatedAsset": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "184po2l1ud",
       "Integrity": "odGKh4uSUc1cVxJxZjIP6wUdANBcDYi30956hZHA2HM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/wwwroot/index.html"
+      "OriginalItemSpec": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/index.html"
     },
     {
-      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/index-Cy2Cw03H.js",
+      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/index-Cy2Cw03H.js",
       "SourceId": "ASP-Dot-Net-MVC-Template-React",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/wwwroot/",
+      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/",
       "BasePath": "_content/ASP-Dot-Net-MVC-Template-React",
       "RelativePath": "assets/index-Cy2Cw03H#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot/assets/index-Cy2Cw03H.js"
     },
     {
-      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/index-D8b4DHJx.css",
+      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/index-D8b4DHJx.css",
       "SourceId": "ASP-Dot-Net-MVC-Template-React",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/wwwroot/",
+      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/",
       "BasePath": "_content/ASP-Dot-Net-MVC-Template-React",
       "RelativePath": "assets/index-D8b4DHJx#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot/assets/index-D8b4DHJx.css"
     },
     {
-      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/react-CHdo91hT.svg",
+      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/react-CHdo91hT.svg",
       "SourceId": "ASP-Dot-Net-MVC-Template-React",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/wwwroot/",
+      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/",
       "BasePath": "_content/ASP-Dot-Net-MVC-Template-React",
       "RelativePath": "assets/react-CHdo91hT#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot/assets/react-CHdo91hT.svg"
     },
     {
-      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/wwwroot/index.html",
+      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/index.html",
       "SourceId": "ASP-Dot-Net-MVC-Template-React",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/wwwroot/",
+      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/",
       "BasePath": "_content/ASP-Dot-Net-MVC-Template-React",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot/index.html"
     },
     {
-      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/wwwroot/vite.svg",
+      "Identity": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/vite.svg",
       "SourceId": "ASP-Dot-Net-MVC-Template-React",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/wwwroot/",
+      "ContentRoot": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/",
       "BasePath": "_content/ASP-Dot-Net-MVC-Template-React",
       "RelativePath": "vite#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -230,7 +230,7 @@
   "Endpoints": [
     {
       "Route": "assets/index-Cy2Cw03H.jqj506d2oj.js",
-      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/2njra2i5uv-jqj506d2oj.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/2njra2i5uv-jqj506d2oj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -293,7 +293,7 @@
     },
     {
       "Route": "assets/index-Cy2Cw03H.jqj506d2oj.js",
-      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/index-Cy2Cw03H.js",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/index-Cy2Cw03H.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -338,7 +338,7 @@
     },
     {
       "Route": "assets/index-Cy2Cw03H.jqj506d2oj.js.gz",
-      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/2njra2i5uv-jqj506d2oj.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/2njra2i5uv-jqj506d2oj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -391,7 +391,7 @@
     },
     {
       "Route": "assets/index-Cy2Cw03H.js",
-      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/2njra2i5uv-jqj506d2oj.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/2njra2i5uv-jqj506d2oj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -446,7 +446,7 @@
     },
     {
       "Route": "assets/index-Cy2Cw03H.js",
-      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/index-Cy2Cw03H.js",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/index-Cy2Cw03H.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -483,7 +483,7 @@
     },
     {
       "Route": "assets/index-Cy2Cw03H.js.gz",
-      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/2njra2i5uv-jqj506d2oj.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/2njra2i5uv-jqj506d2oj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -528,7 +528,7 @@
     },
     {
       "Route": "assets/index-D8b4DHJx.css",
-      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/vl9wjbw522-tyh8ydy1z3.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/vl9wjbw522-tyh8ydy1z3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -583,7 +583,7 @@
     },
     {
       "Route": "assets/index-D8b4DHJx.css",
-      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/index-D8b4DHJx.css",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/index-D8b4DHJx.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -620,7 +620,7 @@
     },
     {
       "Route": "assets/index-D8b4DHJx.css.gz",
-      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/vl9wjbw522-tyh8ydy1z3.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/vl9wjbw522-tyh8ydy1z3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -665,7 +665,7 @@
     },
     {
       "Route": "assets/index-D8b4DHJx.tyh8ydy1z3.css",
-      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/vl9wjbw522-tyh8ydy1z3.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/vl9wjbw522-tyh8ydy1z3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -728,7 +728,7 @@
     },
     {
       "Route": "assets/index-D8b4DHJx.tyh8ydy1z3.css",
-      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/index-D8b4DHJx.css",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/index-D8b4DHJx.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -773,7 +773,7 @@
     },
     {
       "Route": "assets/index-D8b4DHJx.tyh8ydy1z3.css.gz",
-      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/vl9wjbw522-tyh8ydy1z3.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/vl9wjbw522-tyh8ydy1z3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -826,7 +826,7 @@
     },
     {
       "Route": "assets/react-CHdo91hT.7trw0vijr1.svg",
-      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/gyifwnp0ht-7trw0vijr1.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/gyifwnp0ht-7trw0vijr1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -889,7 +889,7 @@
     },
     {
       "Route": "assets/react-CHdo91hT.7trw0vijr1.svg",
-      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/react-CHdo91hT.svg",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/react-CHdo91hT.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -934,7 +934,7 @@
     },
     {
       "Route": "assets/react-CHdo91hT.7trw0vijr1.svg.gz",
-      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/gyifwnp0ht-7trw0vijr1.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/gyifwnp0ht-7trw0vijr1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -987,7 +987,7 @@
     },
     {
       "Route": "assets/react-CHdo91hT.svg",
-      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/gyifwnp0ht-7trw0vijr1.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/gyifwnp0ht-7trw0vijr1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1042,7 +1042,7 @@
     },
     {
       "Route": "assets/react-CHdo91hT.svg",
-      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/react-CHdo91hT.svg",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/assets/react-CHdo91hT.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1079,7 +1079,7 @@
     },
     {
       "Route": "assets/react-CHdo91hT.svg.gz",
-      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/gyifwnp0ht-7trw0vijr1.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/gyifwnp0ht-7trw0vijr1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1124,7 +1124,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/ygga38f6d2-v3mkl2sqs7.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/ygga38f6d2-v3mkl2sqs7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1179,7 +1179,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/wwwroot/index.html",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1216,7 +1216,7 @@
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/ygga38f6d2-v3mkl2sqs7.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/ygga38f6d2-v3mkl2sqs7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1261,7 +1261,7 @@
     },
     {
       "Route": "index.v3mkl2sqs7.html",
-      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/ygga38f6d2-v3mkl2sqs7.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/ygga38f6d2-v3mkl2sqs7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1324,7 +1324,7 @@
     },
     {
       "Route": "index.v3mkl2sqs7.html",
-      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/wwwroot/index.html",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1369,7 +1369,7 @@
     },
     {
       "Route": "index.v3mkl2sqs7.html.gz",
-      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/ygga38f6d2-v3mkl2sqs7.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/ygga38f6d2-v3mkl2sqs7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1422,7 +1422,7 @@
     },
     {
       "Route": "vite.69kjnsiwqx.svg",
-      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/r6d8f7m5a1-69kjnsiwqx.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/r6d8f7m5a1-69kjnsiwqx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1485,7 +1485,7 @@
     },
     {
       "Route": "vite.69kjnsiwqx.svg",
-      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/wwwroot/vite.svg",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/vite.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1530,7 +1530,7 @@
     },
     {
       "Route": "vite.69kjnsiwqx.svg.gz",
-      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/r6d8f7m5a1-69kjnsiwqx.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/r6d8f7m5a1-69kjnsiwqx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1583,7 +1583,7 @@
     },
     {
       "Route": "vite.svg",
-      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/r6d8f7m5a1-69kjnsiwqx.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/r6d8f7m5a1-69kjnsiwqx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1638,7 +1638,7 @@
     },
     {
       "Route": "vite.svg",
-      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/wwwroot/vite.svg",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/wwwroot/vite.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1675,7 +1675,7 @@
     },
     {
       "Route": "vite.svg.gz",
-      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React-TS/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/r6d8f7m5a1-69kjnsiwqx.gz",
+      "AssetFile": "/home/lutrezehuejacinto/Projects/CSharp-Project-Tempates/ASP-Dot-Net-MVC-Template-React/ASP-Dot-Net-MVC-Template-React/obj/Debug/net9.0/compressed/r6d8f7m5a1-69kjnsiwqx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
